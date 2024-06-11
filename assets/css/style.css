@@ -4347,7 +4347,8 @@ Page Banner Area CSS
 =================================================*/
 
 .page-banner-area {
-    background-image: url(../../assets/images/page-banner/banner-bg.jpg);
+    /* background-image: url(https://www.printpower.eu/media/1846/digital-age.jpg?height=0); */
+    background:linear-gradient(0deg, rgba(18, 3, 11, 0.565), rgba(0, 0, 0, 0.481)), url(https://www.printpower.eu/media/1846/digital-age.jpg?height=0);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -4356,19 +4357,40 @@ Page Banner Area CSS
 }
 
 .page-banner-area.bg-2 {
-    background-image: url(../../assets/images/page-banner/banner-bg-2.jpg);
+    background:linear-gradient(0deg, rgba(18, 3, 11, 0.565), rgba(0, 0, 0, 0.481)), url(https://www.printpower.eu/media/1846/digital-age.jpg?height=0);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 120px;
+    padding-bottom: 150px;
 }
 
 .page-banner-area.bg-3 {
-    background-image: url(../../assets/images/page-banner/banner-bg-3.jpg);
+    background:linear-gradient(0deg, rgba(18, 3, 11, 0.565), rgba(0, 0, 0, 0.481)), url(https://www.printpower.eu/media/1846/digital-age.jpg?height=0);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 120px;
+    padding-bottom: 150px;
 }
 
 .page-banner-area.bg-4 {
-    background-image: url(../../assets/images/page-banner/banner-bg-4.jpg);
+    background:linear-gradient(0deg, rgba(18, 3, 11, 0.565), rgba(0, 0, 0, 0.481)), url(https://www.printpower.eu/media/1846/digital-age.jpg?height=0);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 120px;
+    padding-bottom: 150px;
 }
 
 .page-banner-area.bg-5 {
-    background-image: url(../../assets/images/page-banner/banner-bg-5.jpg);
+     /* background-image: url(https://www.printpower.eu/media/1846/digital-age.jpg?height=0); */
+     background:linear-gradient(0deg, rgba(18, 3, 11, 0.565), rgba(0, 0, 0, 0.481)), url(https://www.printpower.eu/media/1846/digital-age.jpg?height=0);
+     background-position: center center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     padding-top: 120px;
+     padding-bottom: 150px;
 }
 
 .page-banner-area.bg-6 {
