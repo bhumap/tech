@@ -35,6 +35,7 @@ Footer Area CSS
 .single-footer-widget p {
     margin-bottom: 0;
     color: #CDC4D9;
+    font-size: 13px;
 }
 
 .single-footer-widget .widget-social {
@@ -97,6 +98,7 @@ Footer Area CSS
 
 .single-footer-widget .quick-links li a {
     color: #CDC4D9;
+    font-size: 14px;
 }
 
 .single-footer-widget .quick-links li a:hover {
