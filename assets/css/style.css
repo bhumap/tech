@@ -1132,9 +1132,13 @@ About Area CSS
 
 .about-circle-shape {
     position: absolute;
-    top: 50%;
+    top: 46%;
     left: 5%;
     transform: translateY(-50%) translateX(-5%);
+}
+
+.single-about-card p{
+    text-align: start;
 }
 
 .about-circle-shape img {
