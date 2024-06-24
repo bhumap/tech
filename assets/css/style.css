@@ -1045,6 +1045,10 @@ About Area CSS
     filter: blur(2px);
 }
 
+.side-menu-btn{
+    display: none;
+}
+
 .about-wrap-content {
     position: relative;
     z-index: 1;

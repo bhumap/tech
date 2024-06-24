@@ -38,6 +38,10 @@ Footer Area CSS
     font-size: 13px;
 }
 
+.widget-logo a img{
+    height: 60px;
+}
+
 .single-footer-widget .widget-social {
     padding: 0;
     margin-bottom: 0;
