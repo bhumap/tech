@@ -8926,4 +8926,11 @@ Buy Now Btn
         height: auto;
         object-fit: cover;
     }
+
+    .main-slides-image img{
+        height: 380px;
+    }
+    .about-image img{
+        height: 380px;
+    }
   }
