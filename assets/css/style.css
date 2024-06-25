@@ -1035,6 +1035,13 @@ About Area CSS
     border-radius: 15px;
 }
 
+.main-slides-image img{
+    height: 550px;
+}
+.about-image img{
+    height: 550px;
+}
+
 .about-wrap-image img {
     border-radius: 20px;
     transition: var(--transition);
