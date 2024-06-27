@@ -4390,20 +4390,20 @@ Page Banner Area CSS
 
 .page-banner-area.bg-3 {
     background:linear-gradient(0deg, rgba(18, 3, 11, 0.565), rgba(0, 0, 0, 0.481)), url(https://www.printpower.eu/media/1846/digital-age.jpg?height=0);
-    background-position: center center;
+    background-position: center ;
     background-size: cover;
     background-repeat: no-repeat;
     padding-top: 120px;
     padding-bottom: 150px;
 }
 
-.page-banner-area.bg-4 {
-    background:linear-gradient(0deg, rgba(18, 3, 11, 0.565), rgba(0, 0, 0, 0.481)), url(https://www.printpower.eu/media/1846/digital-age.jpg?height=0);
-    background-position: center center;
+.page-banner-area.bg-11 {
+    background:linear-gradient(0deg, rgba(18, 3, 11, 0.396), rgba(0, 0, 0, 0.275)), url(../images/seo\ banner.jpg);
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    padding-top: 120px;
-    padding-bottom: 150px;
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
 
 .page-banner-area.bg-5 {
