@@ -4415,19 +4415,37 @@ Page Banner Area CSS
     padding-bottom: 200px;
 }
 
+.page-banner-area.bg-33{
+    background:linear-gradient(0deg, rgba(18, 3, 11, 0.56), rgba(0, 0, 0, 0.537)), url(../images/ppc\ banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 150px;
+    padding-bottom: 200px;  
+}
+
 .page-banner-area.bg-5 {
      /* background-image: url(https://www.printpower.eu/media/1846/digital-age.jpg?height=0); */
      background:linear-gradient(0deg, rgba(18, 3, 11, 0.565), rgba(0, 0, 0, 0.481)), url(https://www.printpower.eu/media/1846/digital-age.jpg?height=0);
      background-position: center center;
      background-size: cover;
      background-repeat: no-repeat;
-     padding-top: 120px;
+     padding-top: 180px;
      padding-bottom: 150px;
 }
 
 .page-banner-area.bg-6 {
     background-image: url(../../assets/images/page-banner/banner-bg-6.jpg);
     background-attachment: fixed;
+}
+
+.page-banner-area.bg-44{
+    background:linear-gradient(0deg, rgba(18, 3, 11, 0.053), rgba(0, 0, 0, 0)), url(../images/amz\ banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    padding-bottom: 200px;  
 }
 
 .page-banner-content h2 {
