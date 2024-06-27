@@ -4406,6 +4406,15 @@ Page Banner Area CSS
     padding-bottom: 200px;
 }
 
+.page-banner-area.bg-22{
+    background:linear-gradient(0deg, rgba(18, 3, 11, 0.683), rgba(0, 0, 0, 0.691)), url(../images/smo\ banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
 .page-banner-area.bg-5 {
      /* background-image: url(https://www.printpower.eu/media/1846/digital-age.jpg?height=0); */
      background:linear-gradient(0deg, rgba(18, 3, 11, 0.565), rgba(0, 0, 0, 0.481)), url(https://www.printpower.eu/media/1846/digital-age.jpg?height=0);
