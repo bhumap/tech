@@ -4448,6 +4448,88 @@ Page Banner Area CSS
     padding-bottom: 200px;  
 }
 
+.page-banner-area.bg-55{
+    background:linear-gradient(0deg, rgba(18, 3, 11, 0.747), rgba(0, 0, 0, 0.755)), url(../images/b2b\ banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    padding-bottom: 200px;  
+}
+
+.page-banner-area.bg-66{
+    background:linear-gradient(0deg, rgba(18, 3, 11, 0.418), rgba(0, 0, 0, 0.364)), url(../images/b2c\ banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    padding-bottom: 200px;  
+}
+
+.page-banner-area.bg-77{
+    background:linear-gradient(0deg, rgba(18, 3, 11, 0.604), rgba(0, 0, 0, 0.604)), url(../images/android\ banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    padding-bottom: 200px;  
+}
+
+.page-banner-area.bg-88{
+    background:linear-gradient(0deg, rgba(18, 3, 11, 0.632), rgba(0, 0, 0, 0.604)), url(../images/ios\ banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    padding-bottom: 200px;  
+    width: 100%;
+}
+
+.page-banner-area.bg-22{
+    background:linear-gradient(0deg, rgba(18, 3, 11, 0.632), rgba(0, 0, 0, 0.604)), url(../images/cloud\ banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    padding-bottom: 140px;  
+    width: 100%;
+}
+
+.page-banner-area.bg-23{
+    background:linear-gradient(0deg, rgba(18, 3, 11, 0.632), rgba(0, 0, 0, 0.604)), url(../images/backup\ banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    padding-bottom: 250px;  
+    width: 100%;
+}
+
+.page-banner-area.bg-24{
+    background:linear-gradient(0deg, rgba(18, 3, 11, 0.632), rgba(0, 0, 0, 0.604)), url(../images/Network\ banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    padding-bottom: 140px;  
+    width: 100%;
+}
+
+.page-banner-area.bg-25{
+    background:linear-gradient(0deg, rgba(18, 3, 11, 0.632), rgba(0, 0, 0, 0.604)), url(../images/Desk\ banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    padding-bottom: 120px;  
+    width: 100%;
+}
+
+.page-banner-area.bg-26{
+    background:linear-gradient(0deg, rgba(18, 3, 11, 0.632), rgba(0, 0, 0, 0.604)), url(../images/manege\ banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    padding-bottom: 200px;  
+    width: 100%;
+}
+
 .page-banner-content h2 {
     font-size: 70px;
     margin-bottom: 20px;
