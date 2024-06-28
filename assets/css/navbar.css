@@ -171,6 +171,7 @@ Navbar Area CSS
 .main-navbar .navbar {
     transition: var(--transition);
     padding: 0;
+    margin-top: -6px !important;
 }
 
 .main-navbar .navbar .navbar-brand {
