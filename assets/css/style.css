@@ -4377,6 +4377,7 @@ Page Banner Area CSS
     background-repeat: no-repeat;
     padding-top: 120px;
     padding-bottom: 150px;
+    margin-top: 100px;
 }
 
 .page-banner-area.bg-2 {
@@ -4386,6 +4387,7 @@ Page Banner Area CSS
     background-repeat: no-repeat;
     padding-top: 120px;
     padding-bottom: 150px;
+    margin-top: 100px;
 }
 
 .page-banner-area.bg-3 {
@@ -4395,6 +4397,7 @@ Page Banner Area CSS
     background-repeat: no-repeat;
     padding-top: 120px;
     padding-bottom: 150px;
+    margin-top: 100px;
 }
 
 .page-banner-area.bg-11 {
@@ -4404,15 +4407,17 @@ Page Banner Area CSS
     background-repeat: no-repeat;
     padding-top: 250px;
     padding-bottom: 200px;
+    margin-top: 100px;
 }
 
-.page-banner-area.bg-22{
+.page-banner-area.bg-222{
     background:linear-gradient(0deg, rgba(18, 3, 11, 0.683), rgba(0, 0, 0, 0.691)), url(../images/smo\ banner.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     padding-top: 200px;
     padding-bottom: 200px;
+    margin-top: 100px;
 }
 
 .page-banner-area.bg-33{
@@ -4422,6 +4427,7 @@ Page Banner Area CSS
     background-repeat: no-repeat;
     padding-top: 150px;
     padding-bottom: 200px;  
+    margin-top: 100px;
 }
 
 .page-banner-area.bg-5 {
@@ -4437,6 +4443,7 @@ Page Banner Area CSS
 .page-banner-area.bg-6 {
     background-image: url(../../assets/images/page-banner/banner-bg-6.jpg);
     background-attachment: fixed;
+    
 }
 
 .page-banner-area.bg-44{
@@ -4446,6 +4453,7 @@ Page Banner Area CSS
     background-repeat: no-repeat;
     padding-top: 200px;
     padding-bottom: 200px;  
+    margin-top: 100px;
 }
 
 .page-banner-area.bg-55{
@@ -4454,7 +4462,8 @@ Page Banner Area CSS
     background-size: cover;
     background-repeat: no-repeat;
     padding-top: 200px;
-    padding-bottom: 200px;  
+    padding-bottom: 200px; 
+    margin-top: 100px; 
 }
 
 .page-banner-area.bg-66{
@@ -4464,6 +4473,7 @@ Page Banner Area CSS
     background-repeat: no-repeat;
     padding-top: 200px;
     padding-bottom: 200px;  
+    margin-top: 100px;
 }
 
 .page-banner-area.bg-77{
@@ -4473,6 +4483,7 @@ Page Banner Area CSS
     background-repeat: no-repeat;
     padding-top: 200px;
     padding-bottom: 200px;  
+    margin-top: 100px;
 }
 
 .page-banner-area.bg-88{
@@ -4483,6 +4494,7 @@ Page Banner Area CSS
     padding-top: 200px;
     padding-bottom: 200px;  
     width: 100%;
+    margin-top: 100px;
 }
 
 .page-banner-area.bg-22{
@@ -4492,6 +4504,7 @@ Page Banner Area CSS
     padding-top: 200px;
     padding-bottom: 140px;  
     width: 100%;
+    margin-top: 100px;
 }
 
 .page-banner-area.bg-23{
@@ -4501,6 +4514,7 @@ Page Banner Area CSS
     padding-top: 200px;
     padding-bottom: 250px;  
     width: 100%;
+    margin-top: 100px;
 }
 
 .page-banner-area.bg-24{
@@ -4510,6 +4524,7 @@ Page Banner Area CSS
     padding-top: 200px;
     padding-bottom: 140px;  
     width: 100%;
+    margin-top: 100px;
 }
 
 .page-banner-area.bg-25{
@@ -4519,6 +4534,13 @@ Page Banner Area CSS
     padding-top: 200px;
     padding-bottom: 120px;  
     width: 100%;
+    margin-top: 100px;
+}
+
+.navbar-area{
+    position: fixed;
+    width: 100%;
+    top: 0;
 }
 
 .page-banner-area.bg-26{
@@ -4528,6 +4550,7 @@ Page Banner Area CSS
     padding-top: 200px;
     padding-bottom: 200px;  
     width: 100%;
+    margin-top: 100px;
 }
 
 .page-banner-content h2 {
