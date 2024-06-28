@@ -9065,4 +9065,67 @@ Buy Now Btn
     .about-image img{
         height: 380px;
     }
+    .page-banner-area.bg-222{
+    padding-top: 41px;
+    padding-bottom: 39px;
+    }
+    .page-banner-area.bg-11{
+        padding-top: 90px;
+        padding-bottom: 39px;
+    }
+    .page-banner-area.bg-33{
+        padding-top: 90px;
+        padding-bottom: 39px;
+    }
+
+    .page-banner-area.bg-44{
+        padding-top: 90px;
+        padding-bottom: 39px;
+    }
+    .page-banner-area.bg-55{
+        padding-top: 90px;
+        padding-bottom: 39px;
+    }
+    .page-banner-area.bg-66{
+        padding-top: 90px;
+        padding-bottom: 39px;
+    }
+    .page-banner-area.bg-77{
+        padding-top: 90px;
+        padding-bottom: 39px;
+    }
+    .page-banner-area.bg-88{
+        padding-top: 79px;
+        padding-bottom: 29px;
+        background-size: contain;
+    }
+    .page-banner-area.bg-22{
+        padding-top: 51px;
+        padding-bottom: 0px;
+        background-size: 100%;
+    }
+    .page-banner-area.bg-23 {
+        padding-top: 95px;
+        padding-bottom: 39px; 
+        background-size: contain;
+    }
+    .page-banner-area.bg-24{
+        padding-top: 50px;
+        padding-bottom: 39px; 
+    }
+    .page-banner-area.bg-25{
+        padding-top: 47px;
+        padding-bottom: 39px; 
+        background-size: cover;
+    }
+    .page-banner-area.bg-26{
+        padding-top: 90px;
+        padding-bottom: 32px;
+        background-size: cover;
+    }
+    .page-banner-area.bg-2{
+        padding-top: 90px;
+        padding-bottom: 32px;
+        background-size: cover;
+    }
   }
